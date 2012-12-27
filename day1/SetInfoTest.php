@@ -5,7 +5,7 @@
  * and other shit work but this is the quick and dirty
  * version to see if I can somehow make this work
  */
-include "../classes/SetInfo.php";
+include "SetInfo.php";
 
 class SetInfoTest extends PHPUnit_Framework_TestCase
 {
