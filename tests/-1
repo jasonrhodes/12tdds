@@ -1,0 +1,62 @@
+[27-Dec-2012 02:54:16 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 02:54:16 UTC] PHP Fatal error:  Uncaught exception 'PHPUnit_Framework_Exception' with message 'Neither "..php" nor "..php" could be opened.' in /Users/jason/pear/share/pear/PHPUnit/Util/Skeleton/Test.php:100
+Stack trace:
+#0 /Users/jason/pear/share/pear/PHPUnit/TextUI/Command.php(157): PHPUnit_Util_Skeleton_Test->__construct('.', '')
+#1 /Users/jason/pear/share/pear/PHPUnit/TextUI/Command.php(130): PHPUnit_TextUI_Command->run(Array, true)
+#2 /Users/jason/pear/bin/phpunit(46): PHPUnit_TextUI_Command::main()
+#3 {main}
+  thrown in /Users/jason/pear/share/pear/PHPUnit/Util/Skeleton/Test.php on line 100
+[27-Dec-2012 02:54:26 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 02:54:26 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /Users/jason/pear/share/pear/PHPUnit/Util/Skeleton/Test.php on line 365
+[27-Dec-2012 02:54:26 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected 'America/New_York' for 'EST/-5.0/no DST' instead in /Users/jason/pear/share/pear/PHPUnit/Util/Skeleton/Test.php on line 366
+[27-Dec-2012 02:55:42 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:12:29 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:12:30 UTC] PHP Parse error:  parse error, expecting `'('' in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 6
+[27-Dec-2012 03:12:41 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:12:41 UTC] PHP Fatal error:  Class 'SetInfo' not found in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 7
+[27-Dec-2012 03:13:42 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:13:42 UTC] PHP Fatal error:  Class 'SetInfo' not found in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 14
+[27-Dec-2012 03:14:15 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:15:47 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:17:34 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:17:34 UTC] PHP Fatal error:  Call to a member function lessThan() on a non-object in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 21
+[27-Dec-2012 03:17:51 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:17:51 UTC] PHP Fatal error:  Call to undefined method SetInfo::lessThan() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 21
+[27-Dec-2012 03:18:11 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:18:24 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:18:52 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:19:16 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:20:17 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:27:28 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:28:59 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:29:56 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:30:05 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:30:05 UTC] PHP Fatal error:  Call to undefined method SetInfo::pickSmallest() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 27
+[27-Dec-2012 03:30:14 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:30:47 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:41:11 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:44:07 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:44:07 UTC] PHP Fatal error:  Call to undefined method SetInfo::pickBigger() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 33
+[27-Dec-2012 03:44:58 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:47:00 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:47:00 UTC] PHP Fatal error:  Call to undefined method SetInfo::pickBiggest() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 39
+[27-Dec-2012 03:47:25 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:51:30 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:51:30 UTC] PHP Fatal error:  Call to undefined method SetInfo::getCount() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 45
+[27-Dec-2012 03:51:42 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:51:58 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:54:03 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:54:03 UTC] PHP Fatal error:  Call to undefined method SetInfo::getAverage() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 51
+[27-Dec-2012 03:57:16 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:57:16 UTC] PHP Fatal error:  Call to undefined method SetInfo::getAverage() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 51
+[27-Dec-2012 03:57:27 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:58:42 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 03:58:42 UTC] PHP Fatal error:  Call to undefined method SetInfo::getTotalSum() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 63
+[27-Dec-2012 03:58:59 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 04:00:06 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 04:00:48 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 04:00:59 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 04:05:25 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 04:05:25 UTC] PHP Fatal error:  Call to undefined method SetInfo::getStats() in /Users/jason/vhosts/my.code/12tdds/tests/SetInfoTest.php on line 69
+[27-Dec-2012 04:05:40 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
+[27-Dec-2012 04:06:49 UTC] PHP Warning:  Module 'mongo' already loaded in Unknown on line 0
